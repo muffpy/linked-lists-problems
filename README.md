@@ -16,6 +16,6 @@ heap.
 
 For a few of the problems, the solutions present the temporary "dummy node" or a "reference pointer" variation.
 They use memory in unusual ways, so they are a nice way to see if you
-really understand what's going on
+really understand what's going on :smirk:
 
 
