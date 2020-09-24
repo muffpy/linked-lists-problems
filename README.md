@@ -1,5 +1,5 @@
 # linked-lists-problems
-Pointer algorithms in C for common Linked Lists problems.
+Solutions using pointer algorithms in C for common Linked Lists problems.
 
 The problems use the C language syntax, so they require a basic understanding of C and
 its pointer syntax. The emphasis is on the important concepts of pointer manipulation and
@@ -17,5 +17,12 @@ heap.
 For a few of the problems, the solutions present the temporary "dummy node" or a "reference pointer" variation.
 They use memory in unusual ways, so they are a nice way to see if you
 really understand what's going on :smirk:
+
+The problems roughly in order of difficulty:
+1. 
+2. 
+
+
+
 
 
