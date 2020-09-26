@@ -20,10 +20,10 @@ really understand what's going on :smirk:
 
 The problems roughly in order of difficulty:
 1. Count occurences of value i in linked list - Count.c
-2. Delete linked list and free memory - DeleteList.c
+2. Remove head and return value - Pop.c 
 3. Get Nth value from linked list - GetNth.c
-4. Insert value at position N in linked list - InsertNth.c
-5. -Pop.c
+4. Delete linked list and free memory - DeleteList.c 
+5. Insert value at position N in linked list - InsertNth.c
 
 
 
