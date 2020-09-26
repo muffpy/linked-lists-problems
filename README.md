@@ -19,7 +19,7 @@ They use memory in unusual ways, so they are a nice way to see if you
 really understand what's going on :smirk:
 
 The problems roughly in order of difficulty:
-1. 
+1. Count occurences of value i in linked list - Count.c
 2. 
 
 
