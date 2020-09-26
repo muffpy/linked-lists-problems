@@ -20,7 +20,8 @@ really understand what's going on :smirk:
 
 The problems roughly in order of difficulty:
 1. Count occurences of value i in linked list - Count.c
-2. 
+2. Delete linked list and free memory - DeleteList.c
+3. 
 
 
 
