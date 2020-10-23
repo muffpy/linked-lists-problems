@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
-#include "extensions/linkedlist.c"
+#include "libs/linkedlist.c"
 
 int Count(struct node* current, int value){
     int count = 0;

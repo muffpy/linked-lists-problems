@@ -20,9 +20,13 @@ really understand what's going on :smirk:
 
 The problems roughly in order of difficulty:
 1. Count occurences of value i in linked list - Count.c
-2. 
-
-
+2. Remove head and return value - Pop.c 
+3. Get Nth value from linked list - GetNth.c
+4. Move head from source list to destination - moveHead.c
+5. Reverse a list - ReverseList.c
+6. Delete linked list and free memory - DeleteList.c 
+7. Insert value at position N in linked list - InsertNth.c
+8. Recursively reverse a list - RecursiveReverse.c
 
 
 

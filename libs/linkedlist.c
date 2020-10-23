@@ -71,7 +71,7 @@ struct node* appendNode(struct node** headRef, int data){
 /*  Given an int and a reference to the head pointer (i.e. a struct
     node** pointer to the head pointer), add a new node at the head of the
     list and set its .next to point to the current head, 
-    and finally change the head to point to the new node.
+    and finally change the head (of the whole list) to point to the new node.
 */
 struct node* push(struct node** headRef, int data){
     struct node* newNode = createNode(data);
@@ -100,7 +100,6 @@ void freeListMemory(struct node* start){
 }
 
 struct node * searchNumber(struct node * start, int number) {
-//! heap=showMemory(start=348, cursors=[ptr,start])
     struct node * ptr = start;
     while ((ptr!=NULL) && (ptr->val!=number)) {
         ptr = ptr->next;

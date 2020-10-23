@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
-#include "extensions/linkedlist.c"
+#include "libs/linkedlist.c"
 
 int Pop(struct node** headRef){
     struct node* head = *headRef;

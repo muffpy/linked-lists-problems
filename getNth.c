@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
-#include "extensions/linkedlist.c"
+#include "libs/linkedlist.c"
 #include "getNth.h"
 
 int GetNth(struct node* current, int index){

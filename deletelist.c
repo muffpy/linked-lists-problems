@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
-#include "extensions/linkedlist.c"
+#include "libs/linkedlist.c"
 
 void DeleteList(struct node** headRef){
     struct node* current = *headRef; // deref headRef to get the real head
